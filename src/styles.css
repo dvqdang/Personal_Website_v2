@@ -85,11 +85,11 @@ footer {
 }
 
 .a-nav {
-    display: inline-block;     
-    position: relative;    
-    z-index: 1;     
-    padding: 1em;     
-    margin: -1em; 
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    padding: 1em;
+    margin: -1em;
 }
 
 .a-nav:hover {
@@ -269,8 +269,8 @@ footer {
 }
 
 #button {
- width: 100px;
- height: 40px;
+    width: 100px;
+    height: 40px;
 }
 
 /*--------------------------------------------------*/
@@ -451,7 +451,7 @@ body > * {
         background-color: #5d4d91;
         margin: 0;
     }
-    
+
     ul.show {
         display: block;
     }
@@ -463,15 +463,15 @@ body > * {
     p {
         font-size: 25px;
     }
-    
-    
+
+
     .a-nav {
-    display: inline-block;     
-    position: relative;    
-    z-index: 1;     
-    padding: 0;     
-    margin: 0; 
-}
+        display: inline-block;
+        position: relative;
+        z-index: 1;
+        padding: 0;
+        margin: 0;
+    }
 
 
 
@@ -525,28 +525,27 @@ body > * {
         justify-content: space-around;
         align-items: center;
     }
-    
+
     .attributes-list {
         flex-direction: column;
-        
+
     }
-    
+
     .form-full-name {
         display: flex;
         flex-direction: column;
     }
 
-    
-    
+
+
     #email {
         width: 200px;
     }
-    
+
     #message {
         width: 200px;
     }
-    
- 
+
+
 
 }
-
